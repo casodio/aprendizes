@@ -1,0 +1,15 @@
+.t{
+   color: rgb(7, 87, 7);
+   text-align: center;
+   margin-top: 10%;
+   font-family: 'algerian';
+   font-style: oblique;  
+   text-shadow: 3px 2px 4px white;
+}
+.i{
+    align-items: center;
+    justify-items: center;
+    display: grid;
+   margin-left: auto;
+   margin-right: auto;
+}
